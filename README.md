@@ -9,6 +9,7 @@ A simple web app that reminds you every 10 minutes to check the portal for any b
 ## Run locally
 
 ```bash
+git clone https://github.com/sawantaditi24/RemindMe
 npm install
 npm run dev
 ```
