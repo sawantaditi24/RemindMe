@@ -1,6 +1,6 @@
-# Visa Slot Reminder
+# ReminderMe - A simple website to remember you to monitor anything every X mins.
 
-A simple web app that reminds you every 10 minutes to check the visa portal. Keeps you disciplined so you don’t get logged out (and use up limited daily logins).
+A simple web app that reminds you every 10 minutes to check the portal for any bookings or your CI/CD. Keeps you disciplined so you don’t get logged out (and use up limited daily logins).
 
 - Click **Start** once and allow notifications. Keep this tab open.
 - Reminders fire every 10 minutes via desktop notification and a short beep, even when you’re on another tab.
